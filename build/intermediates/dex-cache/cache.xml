@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/allens/Desktop/MvpDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f6dd9f39f98dd4c6c4ba0ee9208b48657b2a9a3e">
+        <dex dex="/Users/allens/Desktop/MvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c777b439ab6b1acda36f2d6598d20146e50c4f35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/allens/Desktop/MvpDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/allens/Desktop/MvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_d27df216c9457140f16826146bc48b586056dcea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/allens/Desktop/MvpDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/allens/Desktop/MvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_662fc20f9b6132a6c7a91415cc25b05df8b06256/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/allens/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/allens/Desktop/MvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_9b4b0a18908448cadfe7a33a418769aa557d34b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/allens/Desktop/MvpDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/allens/Desktop/MvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_7d75fbee48033adc405eb587783d65160a760788/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/allens/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/allens/Desktop/MvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_1b770fbb99e239ef41c1f876da2ee8c845621eb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/allens/Desktop/MvpDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/allens/Desktop/MvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_2d94845d4ca03fb803f1e4338961c5de8d9a9759/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/allens/Desktop/MvpDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/allens/Desktop/MvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_ccf8a463cad5da41b7f1b299294640745ab55a2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/allens/Desktop/MvpDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7946b372b0088eb06797c76b5e5d1b83fe992da">
+        <dex dex="/Users/allens/Desktop/MvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_76dd7520bb4cfc255af9545593c8c1db90442c39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/allens/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/allens/Desktop/MvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_f806714ff3b78b198445af31294090915a1c906c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/allens/Desktop/MvpDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/allens/Desktop/MvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_d5ec6541ec9c7963f53f18ed0945d4eff94eec8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/allens/Desktop/MvpDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/allens/Desktop/MvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_d58db5627338a4f03f7a569a558d57cf226e931f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/allens/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/allens/Desktop/MvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.1_36c83585a2cdf60b872fa42d0f7d5e5d1a2eb866/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/allens/Desktop/MvpDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/allens/Desktop/MvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_23714370752eba1ebba55efdcdce20351bc1081e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/allens/Desktop/MvpDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/allens/Desktop/MvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_3c0e84ab34cb8741745c9a8240b2562c5353f2f2/classes.dex" />
+    </item>
+
+</items>
